@@ -10,3 +10,6 @@ This is just a sample purpose
 This is just a sample deployment chuchu for the sample deployment
 
 ## How to Contribute
+
+### Copyright
+sample copyright
