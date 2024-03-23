@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    john doe	johndoe@yyahoo.com @twittersample
 
 # THANKS
 
